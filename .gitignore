@@ -1,0 +1,4 @@
+go/pkg/
+go_appengine/
+go_appengine_patched/
+go_appengine_sdk_darwin_amd64-1.9.54.zip
